@@ -1,35 +1,14 @@
-# ISEP-LAPR1-2022/2023
+# Projeto Integrador do primeiro semestre do ano letivo 2022-2023 na LEI-ISEP #
 
-## Introdução ##
-------------------
-Este repositório contém artefactos didáticos relevantes para o projeto integrador a desenvolver no primeiro semestre do ano letivo 2022-2023 na [Licenciatura em Engenharia (LEI) ](http://www.isep.ipp.pt/Course/Course/26) do [Instituto Superior de Engenharia do Porto (ISEP)](http://www.isep.ipp.pt).
+Este é o modelo do projeto para o primeiro semestre do segundo ano do LEI [(Licenciatura em Engenharia Informática)](http://www.isep.ipp.pt/Course/Course/26) em 2022/2023.
 
-## Modos disponíveis: ##
-------------------
-* **modo Interativo:**
-```
- java -jar lapr1_1dm_grupo02.jar
-```
+Contém artefatos didáticos relevantes para o projeto integrativo a ser desenvolvido durante o primeiro semestre do ano académico de 2022-2023 no curso de Engenharia Informática do [Instituto Superior de Engenharia do Porto (ISEP)](http://www.isep.ipp.pt).
 
-* **modo não interativo:**
-```
- java -jar lapr1_1dm_grupo02.jar ficheiroSIR.csv -m 1 -p 0.1 -t 1000 -d 30
-```
+## Elementos do grupo 
 
-## Utensílios usados: ##
-----------------------
 
-* Usamos o [Trello](https://trello.com/invite/b/aXVvZb4x/ATTIa6ee83f0535319d46e8643906e95abbc11A8D2B8/lapr11dmgrupo02) para o planeamento e organização do projeto, tendo ficado o trabalho de Scrum Master para a aluna Dephane Cabral.
-* O Teams e o Bitbucket foram os locais que escolhemos para o armazenamento dos ficheiros
-* E por fim, o Discord como meio de comunicação principal
-
-## Membros ##
-------------------
-
-| Nome               | Números |
-|--------------------|---------|
-| **João Pinto**     | 1221694 |
-| **Rafael Araújo**  | 1201804 |
-| **Vasco Sousa**    | 1221700 |
-| **Tiago Correia**  | 1211742 |
-| **Dephane Cabral** | 1221636 |
+| Número de estudante | Nome            |
+|---------------------|-----------------|
+| **1221694**         | João Pinto      |         
+| **1201804**         | Rafael Araújo   |
+| **1221700**         | Vasco Sousa     |
